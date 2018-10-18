@@ -1,4 +1,5 @@
 .markdown-body > :first-child {
   font-weight: normal !important;
   font-size: 1em;
+  border: none;
   }
