@@ -78,9 +78,14 @@ One time, my sister was hanging out with a friend by the pool. From the distance
 A new thing that all the cool kids were doing, was playing pokemon on a gameboy. A lot of time was spent grinding, fighting weak pokemon to slowly increase levels. Any chance I got, I would help anyone grind. It was quite fun for me, as I did not have this game. After that experience, for my birthday, all I wanted was a pokemon game. And on my birthday, we went to toysrus, and got it for about $100.
 In retrospect, this gift was also a curse. The next summer, I was at this russian camp with the cool kids playing my pokemon game. I spent way too much time playing on this game. I had a friend that usually went to the camp with me in the summer. He didn't have the pokemon game. I didn't spend time playing with him there. After that summer, I never talked with him again.
 
-## Going to School
+## Coming home from school
 
 At around age 8, I walked on my own to school. Look it up on google maps, it was a 10 minute walk, crossing 4 blocks. Everyone walked to school. I'm not sure if there were any school buses.
 Because of the traffic, it was more efficient to walk then to drive. One time I tested this out - I "raced" against a car going  the the same direction as my home. Because of all the traffic lights, I was able to outrun the car.
-I had an indian friend named Dewan to lived near my home. I would find his name funny because it sounded like the russian Диван, which means Sofa. He would frequently invite me to his house. There we would play games, watch movies, eat junk food. I once asked him, why does he keep buying junk food for me. He told me that in his religion, you always try and do good things for your friends.
+
+I had an Indian friend named Dewan who lived near me. I would find his name funny because it sounded like the russian Диван, which means Sofa. He would frequently invite me to his house. There we would play games, watch movies, eat junk food. I once asked him, why does he keep buying junk food for me. He told me that in his religion, you always try and do good things for your friends.
+My parents would be unhappy with me since I went to his house directly from school without letting my parents know. There were no cellphones, and my parents weren't home till later, so I had no way of letting them know.
+
+This continued to be an ongoing problem, with me forgetting to be home in time. My sister's daycare brought my sister home by a certain time. I had to be home to pick up my sister. There were several instances when I forgot, and was not home to pick up my sister. I don't know what were the consequences of this, but my parents were understandably quite unhappy about it.
+
 My first crush had lived in my building. Sometimes I walked with her from school to home. It became a big dramatic thing at school. Everyone knew we were "together". Unfortunately, we had nothing to talk about, so walking home with her became quite boring.
