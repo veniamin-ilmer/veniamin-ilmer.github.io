@@ -58,7 +58,7 @@ I happened to have a magnifying glass. I liked burning black marks with it in wo
 ## Upstate NY
 
 A memorable location I've been to for about 2 or 3 summers has been a russian community / camp / resort in upstate NY called Сказка. I just found they have a website: http://www.skazka.us
-This resort was considered a good place with fresh air. They had a pool, evening kid friendly dancing disco outside, and some other form of entertainment (piano playing, magician, etc.). No TV.
+This resort was considered a good place with fresh air. They fed us breakfast, lunch, and dinner. They had a pool, evening kid friendly dancing disco outside, and some other form of entertainment (piano playing, magician, etc.). No TV.
 I had a friend playing with me there. I enjoyed the evening dancing, and pool swimming competition. I practiced several days in advanced before the competition. In retrospect, I was still pretty slow at swimming. :P
 The pool maintainer frequently preached to everyone, to wash your feet before getting into the pool. There were a lot of leaves everywhere that would stick to people's feet and he kept being annoyed having to clean the leaves from the pool all the time.
 Once, we found a frog in the pool trying to get out. We took it out.
@@ -74,3 +74,6 @@ I accidentally dropped the roll about 3 times in total. She was very annoyed, as
 Apparently stealing free toilet rolls has been a soviet thing to do. My mom tells me when they first came to america, she was amazed how all of the public toilets had free paper.
 
 One time, my sister was hanging out with a friend by the pool. From the distance, I heard her and her friend suddenly crying. At first, I thought they might have run into eachother or something. Apparently they found a wasp or bees nest, and decided to poke it with a stick. The two girls got stung all over. My sister was very sad. It took a long time to heal.
+
+A new thing that all the cool kids were doing, was playing pokemon on a gameboy. A lot of time was spent grinding, fighting weak pokemon to slowly increase levels. Any chance I got, I would help anyone grind. It was quite fun for me, as I did not have this game. After that experience, for my birthday, all I wanted was a pokemon game. And on my birthday, we went to toysrus, and got it for about $100.
+In retrospect, this gift was also a curse. The next summer, I was at this russian camp with the cool kids playing my pokemon game. I spent way too much time playing on this game. I had a friend that usually went to the camp with me in the summer. He didn't have the pokemon game. I didn't spend time playing with him there. After that summer, I never talked with him again.
