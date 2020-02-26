@@ -31,7 +31,7 @@ My dad programmed the TV to turn off at around 9 PM? I used to watch sesame stre
 There was a park right across from our first building. I enjoyed going there all the time.
 My favorite activity was to run. My favorite game was tag. I played it with other kids there.
 I remember waiting to get onto the swings. While waiting, I would climb up and down the metal foundation of the swing.
-There was a [chain link fance](https://en.wikipedia.org/wiki/Chain-link_fencing) dividing different portions of the park.
+There was a [chain link fence](https://en.wikipedia.org/wiki/Chain-link_fencing) dividing different portions of the park.
 My small foot would neatly fit inside of each diamond, allowing me to easily scale the fence. (I later realized I have a hard time scaling such fences due to my foot being too large to fit in the diamond.)
 My "parkour skills" slowly developed there.
 I liked challenging myself, climbing on higher and higher playground surfaces, then jumping to the ground, showing off to everyone how high I can jump.
