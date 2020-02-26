@@ -1,7 +1,7 @@
 ## My earliest memory
 
 I was 3 years old. My father was invited by his religious manager for shabbat.
-The manager lived nearby so in the evening we started walking, my parents were holding my hands, side by side.
+The manager lived nearby. In the evening we started walking, my parents were holding my hands, side by side.
 While walking, my parents would both lift me by my hands to jump over a curb or puddle. This gave me great joy.
 The manager had a lot of kids. During the shabbat, they drank a significant amount of red wine.
 In the morning, I remember waking up in a different location than usual. We were in a room with a computer.
