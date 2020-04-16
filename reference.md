@@ -47,11 +47,11 @@
 : Software is getting slower more rapidly than hardware is becoming faster.
 
 [Self-licensing](https://en.wikipedia.org/wiki/Self-licensing)
-: The psychology of compensating good behaviour with poor behaviour.
+: Compensating good behaviour with poor behaviour.
 : "We drink Diet Coke – with Quarter Pounders and fries at McDonald's. We go to the gym – and ride the elevator to the second floor. We install tankless water heaters – then take longer showers. We drive SUVs to see Al Gore's speeches on global warming."
 
 [Risk compensation](https://en.wikipedia.org/wiki/Risk_compensation)
 : The safer skydiving gear becomes, the more chances skydivers will take.
 
 [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-: Confidence is confused with competence.
+: Confidence is confused with Competence.
