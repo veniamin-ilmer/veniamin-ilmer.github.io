@@ -43,7 +43,7 @@
 
 ## Psychology
 
-[Wirth's_law](https://en.wikipedia.org/wiki/Wirth%27s_law)
+[Wirth's law](https://en.wikipedia.org/wiki/Wirth%27s_law)
 : Software is getting slower more rapidly than hardware is becoming faster.
 
 [Self-licensing](https://en.wikipedia.org/wiki/Self-licensing)
