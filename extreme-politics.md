@@ -9,3 +9,11 @@ Right to Abortion
 
 Protection against Abortion
 : From conception, all unborn children will be protected against any form of harm, regardless of situation.
+
+## Guns
+
+Right to Gun Use
+: Anyone can buy, hold, and use any amount of guns in any place and any time.
+
+Protection Against Gun Use
+: No-one should ever be permitted to own or use a gun.
