@@ -4,7 +4,7 @@ A record of all of the cities I've lived in.
 
 ## New York City, NY
 
-**Duration of Stay**: On and off at different parts of NY for about 12 years.
+**Duration of Stay**: On and off at different parts of NY for about 11 years.
 
 Most people work in Manhattan, however Manhattan is very expensive to live in, so most people live in the surrounding area.
 The surrounding area (Brooklyn, Queens, Bronx, Staten Island, Long Island, and half of New Jersey), can be considered a suburb of Manhattan.
@@ -36,13 +36,13 @@ With so many people, there was frequently something to see and do every day. I e
 
 ## Suburb in New Jersey
 
-**Duration of Stay**: 13 years
+**Duration of Stay**: 14 years
 
 Most of New Jersey is filled with houses and forest. It is hard to get to anywhere without a car. Most children get to school by an army of school busses.
 
 A lot of the roads don't have sidewalks, so people walk on the car roadways.
 
-New Jersey is known to have great schools, and high property taxes to pay for those schools.
+New Jersey is known to have great schools, and high property taxes to pay for those schools. I went to school here. Although the school was not low on funding, I am not sure if I got the best education.
 
 Most people I've talked to from New Jersey, don't like New Jersey. It feels just like a commuter city with lots of traffic. There is very little to do at home. People spend a lot of time going to malls. It's boring.
 
