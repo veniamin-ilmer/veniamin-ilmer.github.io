@@ -34,6 +34,8 @@ I liked how this setting felt less consumerist than the rest of Manhattan.
 
 With so many people, there was frequently something to see and do every day. I enjoyed walking around and watching everything around me. It was good exercise, without trying.
 
+There a lot of bodegas: small convenience stores, everywhere. They make it convenient to buy things, including an omlette. They are all in competition with eachother, which causes prices to be relatively low.
+
 ## Suburb in New Jersey
 
 **Duration of Stay**: 14 years
@@ -56,3 +58,12 @@ I enjoyed walking around in the various forest trails everywhere. Closer to the 
 
 I wish there were a city with a mix between the mountainous trails and the NY city environment.
 
+## Oklahoma City
+
+**Duration of Stay**: 4 years
+
+Oklahoma City is a very large city by area. Most of what I'd consider an actual "city" is the "downtown" and "uptown" parts of the city center. Everything else feels like a huge suburb of the city.
+
+Unlike New Jersey however, Oklahoma City does not suffer from traffic problems. There are numerous highways around the city. Most trips are within a 20 minute drive, making it a pleasing experience to drive to any location.
+
+The rent is very cheap. Yet, there seems to be a big homeless population. The homeless appear a lot especially in public areas, like libraries and parks.
