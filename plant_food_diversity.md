@@ -7,23 +7,29 @@ The purpose of this information is to try to diversity your diet, to support div
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
 |Agaricales    |       |Mushroom  |            |         |
-|Apiales       |Carrot<br>Dill|Celery<br>Dill<br>Parsely<br>Fennel |          |Caraway|
-|Asparagales   |Onion<br>Garlic|Onion<br>Asparagus| | |
+|Alismatales   |Taro Corm<br>Eddo| |           |         |
+|Apiales       |Carrot<br>Dill|Celery<br>Dill<br>Parsely<br>Fennel | |Caraway|
+|Arecales      |       |          |Coconut     |         |
+|Asparagales   |Onion<br>Garlic|Onion<br>Asparagus<br>Aloe vera| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
 |Brassicales   |Turnip<br>Radish|Broccoli<br>Cabbage<br>Kale|Papaya| |
-|Caryophyllales|Beet   |Spinach   |Dragon fruit|Quinoa |
-|Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon| |
+|Caryophyllales|Beet   |Spinach   |Dragon fruit<br>Pitaya|Quinoa |
+|Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon|   |
+|Dioscoreales  |Yam    |          |            |         |
 |Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
 |Fabales       |Peanuts|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan |
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Sage<br>Mint<br>Basil<br>Rosemary|Olive|Sesame<br>Chia|
+|Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
 |Myrtales      |       |          |Pomegranate |         |
 |Oxalidales    |       |          |Starfruit   |         |
+|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
 |Proteales     |       |          |            |Macadamia|
 |Rosales       |       |          |Apple<br>Pear<br>Peach<br>Fig<br>Strawberry<br>Raspberry|Almond|
 |Sapindales    |       |Maple     |Orange<br>Lemon<br>Mango|Cashew|
 |Saxifragales  |       |          |Currant<br>Gooseberry|         |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Pepper<br>Eggplant| |
-|Vitales       |       |          |Grape       | |
+|Vitales       |       |          |Grape       |         |
+|Zingiberales  |Ginger<br>Tumeric| |Banana     |         |
