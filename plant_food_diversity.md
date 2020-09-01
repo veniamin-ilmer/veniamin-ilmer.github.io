@@ -8,7 +8,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |--------------|-------|----------|------------|---------|
 |Agaricales    |       |Mushroom  |            |         |
 |Alismatales   |Taro Corm<br>Eddo| |           |         |
-|Apiales       |Carrot<br>Celeriac|Celery<br>Dill<br>Parsely<br>Fennel | |Caraway|
+|Apiales       |Carrot<br>Parsnip<br>Celeriac|Celery<br>Dill<br>Parsely<br>Fennel | |Caraway|
 |Arecales      |       |          |Coconut     |         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Onion Greens<br>Leek<br>Chive<br>Asparagus<br>Aloe vera| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
