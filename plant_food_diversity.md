@@ -25,11 +25,12 @@ The purpose of this information is to try to diversity your diet, to support div
 |Malvales      |       |          |            |Cacao    |
 |Myrtales      |       |          |Pomegranate |         |
 |Oxalidales    |       |          |Starfruit   |         |
+|Piperales     |       |          |Black Pepper|         |
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
 |Proteales     |       |          |            |Macadamia|
 |Rosales       |       |          |Apple<br>Pear<br>Peach<br>Fig<br>Strawberry<br>Raspberry|Almond|
 |Sapindales    |       |Maple     |Orange<br>Lemon<br>Mango|Cashew|
 |Saxifragales  |       |          |Currant<br>Gooseberry|         |
-|Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Pepper<br>Eggplant| |
+|Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| |
 |Vitales       |       |          |Grape       |         |
 |Zingiberales  |Ginger<br>Tumeric| |Banana     |         |
