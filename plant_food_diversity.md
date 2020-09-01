@@ -29,7 +29,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
 |Proteales     |       |          |            |Macadamia|
 |Rosales       |       |          |Apple<br>Pear<br>Peach<br>Fig<br>Strawberry<br>Raspberry<br>Blackberry|Almond|
-|Sapindales    |       |Maple     |Orange<br>Lemon<br>Mango|Cashew|
+|Sapindales    |       |Maple     |Orange<br>Lemon<br>Mango<br>Lychee|Cashew|
 |Saxifragales  |       |          |Currant<br>Gooseberry|         |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| |
 |Vitales       |       |          |Grape       |         |
