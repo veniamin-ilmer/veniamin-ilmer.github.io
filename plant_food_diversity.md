@@ -50,7 +50,7 @@ The purpose of this information is to try to diversity your diet, to support div
 
 | Order        | Stem/Leaf|
 |--------------|----------|
-|Bangiales     |Nori Seaweed<br>Laverbread<br>Gim|
+|Bangiales     |Nori Seaweed<br>Laver|
 |Bryopsidales  |Sea grapes|
 |Gracilariales |Ogonori (Agar)|
 |Laminariales  |Kelp<br>Wakame|
