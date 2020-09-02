@@ -23,7 +23,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
-|Myrtales      |       |          |Pomegranate |         |
+|Myrtales      |       |          |Pomegranate<br>Guava|         |
 |Oxalidales    |       |          |Starfruit   |         |
 |Piperales     |       |          |Black Pepper|         |
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
