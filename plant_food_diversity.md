@@ -12,6 +12,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
+|Bangiales     |       |Nori Seaweed<br>Laverbread|          |         |
 |Brassicales   |Daikon<br>Turnip<br>Radish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale|Papaya| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
@@ -20,6 +21,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Fabales       |Peanut|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan |
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Sage<br>Mint<br>Basil<br>Rosemary|Olive|Sesame<br>Chia|
+|Laminariales  |       |Kelp<br>Wakame|        |         |
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
