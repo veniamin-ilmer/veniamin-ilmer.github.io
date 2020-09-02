@@ -4,15 +4,15 @@ Below are example produce you can buy at a store, broken down by Order and part 
 
 The purpose of this information is to try to diversity your diet, to support diverse gut bateria.
 
+## Ground Plants
+
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
-|Agaricales    |       |Mushroom  |            |         |
 |Alismatales   |Taro Corm<br>Eddo| |           |         |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac|Celery<br>Dill<br>Parsely<br>Fennel|Coriander|Caraway<br>Cumin|
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
-|Bangiales     |       |Nori Seaweed<br>Laverbread|          |         |
 |Brassicales   |Daikon<br>Turnip<br>Radish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale|Papaya| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
@@ -21,7 +21,6 @@ The purpose of this information is to try to diversity your diet, to support div
 |Fabales       |Peanut|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan |
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Sage<br>Mint<br>Basil<br>Rosemary|Olive|Sesame<br>Chia|
-|Laminariales  |       |Kelp<br>Wakame|        |         |
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
@@ -36,3 +35,16 @@ The purpose of this information is to try to diversity your diet, to support div
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| |
 |Vitales       |       |          |Grape       |         |
 |Zingiberales  |Ginger<br>Tumeric| |Banana     |         |
+
+## Fungi
+
+| Order     |Fruit   |
+|-----------|--------|
+|Agaricales |Mushroom|
+
+## Seaweed
+
+| Order        | Root  | Stem/Leaf| Fruit      | Seed    |
+|--------------|-------|----------|------------|---------|
+|Bangiales     |       |Nori Seaweed<br>Laverbread|          |         |
+|Laminariales  |       |Kelp<br>Wakame|        |         |
