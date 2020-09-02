@@ -10,10 +10,10 @@ The purpose of this information is to try to diversity your diet, to support div
 |Alismatales   |Taro Corm<br>Eddo| |           |         |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac|Celery<br>Dill<br>Parsely<br>Fennel | |Caraway|
 |Arecales      |       |          |Coconut<br>Date|         |
-|Asparagales   |Onion<br>Garlic<br>Shallot|Onion Greens<br>Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
+|Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
 |Brassicales   |Daikon<br>Turnip<br>Radish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale|Papaya| |
-|Caryophyllales|Beet   |Spinach   |Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
+|Caryophyllales|Beet   |Spinach<br>Rhubarb|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Squash|   |
 |Dioscoreales  |Yam    |          |            |         |
 |Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
