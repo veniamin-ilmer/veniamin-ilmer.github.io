@@ -8,13 +8,13 @@ The purpose of this information is to try to diversity your diet, to support div
 
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
-|Alismatales   |Taro Corm<br>Eddo| |           |         |
+|Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac|Celery<br>Dill<br>Parsely<br>Fennel|Coriander|Caraway<br>Cumin|
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce   |            |Sunflower|
 |Brassicales   |Daikon<br>Turnip<br>Radish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale|Papaya| |
-|Caryophyllales|Beet   |Spinach<br>Rhubarb|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
+|Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Yam    |          |            |         |
 |Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
@@ -40,11 +40,18 @@ The purpose of this information is to try to diversity your diet, to support div
 
 | Order     |Fruit   |
 |-----------|--------|
-|Agaricales |Mushroom|
+|Agaricales |Common Mushroom<br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake|
+|Auriculariales|Jelly Ear|
+|Pezizales  |Truffle<br>Morchella (Morel)|
+|Russulales |Lion's Mane Mushroom|
+|Tremellales|Snow Fungus|
 
 ## Seaweed
 
-| Order        | Root  | Stem/Leaf| Fruit      | Seed    |
-|--------------|-------|----------|------------|---------|
-|Bangiales     |       |Nori Seaweed<br>Laverbread|          |         |
-|Laminariales  |       |Kelp<br>Wakame|        |         |
+| Order        | Stem/Leaf|
+|--------------|----------|
+|Bangiales     |Nori Seaweed<br>Laverbread<br>Gim|
+|Bryopsidales  |Sea grapes|
+|Gracilariales |Ogonori (Agar)|
+|Laminariales  |Kelp<br>Wakame|
+|Ulvales       |Sea Lettuce<br>Gutweed|
