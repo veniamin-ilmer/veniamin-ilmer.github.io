@@ -11,7 +11,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin|
 |Arecales      |       |          |Coconut<br>Date|         |
-|Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
+|Asparagales   |Onion<br>Garlic<br>Shallot|Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce<br>Artichoke|  |Sunflower|
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale<br>Arugula|Papaya| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters|
@@ -35,7 +35,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Saxifragales  |       |          |Currant<br>Gooseberry|         |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| |
 |Vitales       |       |          |Grape       |         |
-|Zingiberales  |Ginger<br>Tumeric| |Banana     |         |
+|Zingiberales  |Ginger<br>Tumeric| |Banana     |Cardamom |
 
 ## Fungi
 
