@@ -13,7 +13,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce<br>Artichoke|  |Sunflower|
-|Brassicales   |Daikon<br>Turnip<br>Radish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale<br>Arugula|Papaya| |
+|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale<br>Arugula|Papaya| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Yam    |          |            |         |
