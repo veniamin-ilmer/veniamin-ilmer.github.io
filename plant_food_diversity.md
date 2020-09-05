@@ -23,7 +23,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
-|Malvales      |       |          |            |Cacao    |
+|Malvales      |       |          |Durian      |Cacao    |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| |
 |Oxalidales    |       |          |Starfruit   |         |
 |Pinales       |       |          |            |Pine nut |
