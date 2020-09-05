@@ -17,15 +17,16 @@ The purpose of this information is to try to diversity your diet, to support div
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Quinoa |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Yam    |          |            |         |
-|Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
-|Fabales       |Peanut<br>Jicama<br>Liquorice|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan<br>Tamarind|
+|Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry|Brazil Nut|
+|Fabales       |Peanut<br>Jicama<br>Liquorice| | |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan<br>Tamarind<br>Hazelnut|
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
-|Myrtales      |       |Clove     |Pomegranate<br>Guava|         |
+|Myrtales      |       |Clove     |Pomegranate<br>Guava| |
 |Oxalidales    |       |          |Starfruit   |         |
+|Pinales       |       |          |            |Pine nut |
 |Piperales     |       |          |Black Pepper|         |
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
 |Proteales     |       |          |            |Macadamia|
