@@ -20,7 +20,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
 |Fabales       |Peanut<br>Jicama<br>Liquorice|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan<br>Tamarind|
 |Gentianales   |       |          |            |Coffee   |
-|Lamiales      |       |Sage<br>Mint<br>Basil<br>Rosemary|Olive|Sesame<br>Chia|
+|Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |            |Cacao    |
