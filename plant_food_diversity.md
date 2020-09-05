@@ -22,6 +22,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
+|Magnoliales   |       |          |            |Mace<br>Nutmeg|
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
 |Malvales      |       |          |Durian      |Cacao    |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| |
