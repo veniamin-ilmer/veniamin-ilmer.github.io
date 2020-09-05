@@ -28,7 +28,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Oxalidales    |       |          |Starfruit   |         |
 |Pinales       |       |          |            |Pine nut |
 |Piperales     |       |          |Black Pepper|         |
-|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn|
+|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum|
 |Proteales     |       |          |            |Macadamia|
 |Rosales       |       |          |Apple<br>Pear<br>Peach<br>Plum<br>Jackfruit<br>Fig<br>Cherry<br>Strawberry<br>Raspberry<br>Blackberry|Almond|
 |Sapindales    |       |Maple     |Pomelo<br>Grapefruit<br>Orange<br>Lemon<br>Mango<br>Lychee|Cashew<br>Pistachio|
