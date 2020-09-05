@@ -9,7 +9,7 @@ The purpose of this information is to try to diversity your diet, to support div
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
-|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander|Caraway<br>Cumin|
+|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin|
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce<br>Artichoke|  |Sunflower|
