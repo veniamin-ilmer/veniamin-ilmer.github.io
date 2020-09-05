@@ -9,7 +9,7 @@ The purpose of this information is to try to diversity your diet, to support div
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
-|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Anise|Celery<br>Dill<br>Parsely<br>Fennel|Coriander|Caraway<br>Cumin|
+|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander|Caraway<br>Cumin|
 |Arecales      |       |          |Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Leek<br>Chive<br>Asparagus<br>Aloe vera<br>Vanilla| | |
 |Asterales     |Chicory|Lettuce<br>Artichoke|  |Sunflower|
@@ -18,7 +18,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Yam    |          |            |         |
 |Ericales      |       |Tea       |Kiwi<br>Persimmon<br>Blueberry<br>Cranberry| |
-|Fabales       |Peanut<br>Jicama|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan<br>Tamarind|
+|Fabales       |Peanut<br>Jicama<br>Liquorice|          |            |Peas<br>Beans<br>Chickpea<br>Walnut<br>Pecan<br>Tamarind|
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Sage<br>Mint<br>Basil<br>Rosemary|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
