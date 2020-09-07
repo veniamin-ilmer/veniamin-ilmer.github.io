@@ -4,6 +4,8 @@ Below are example produce you can buy at a store, broken down by Order and part 
 
 The purpose of this information is to try to diversity your diet, to support diverse gut bateria.
 
+It can also be used to avoid certain food groups for allergy reasons, and find alternatives.
+
 ## Ground Plants
 
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
