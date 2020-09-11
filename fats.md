@@ -54,9 +54,7 @@ List of foods with high amounts of monounsaturated fats:
 
 Neither Omega 3 nor Omega 6 are "good" or "bad". Rather, you need to eat a correct ratio of these two fats to be healthy.
 
-Generally, most polyunsaturated fats are higher in omega 6 than omega 3. This is because of shelf life.
-
-Generally, foods that have a longer shelf life, have a higher omega 6 ratio. Foods with higher a omega 3 ratio go bad faster.
+Most polyunsaturated fats are higher in omega 6 than omega 3. This is because of shelf life. Foods that have a longer shelf life, generally have a higher omega 6 ratio. Foods with a higher omega 3 ratio go bad faster.
 
 So you need to compensate by eating foods with higher omega 3 amounts. Generally a 4 to 1 ratio of omega 6 to omega 3 is recommended.
 
