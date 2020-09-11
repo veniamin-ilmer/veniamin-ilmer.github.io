@@ -62,7 +62,7 @@ So you need to compensate by eating foods with higher omega 3 amounts. Generally
 
 List of oil rich foods with omega 3 higher than omega 6:
 
-* Any seafood
+* Any oily fish
 * Flax seed
 * Chia seed
 
