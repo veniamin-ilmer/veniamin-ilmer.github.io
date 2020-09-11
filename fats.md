@@ -52,6 +52,8 @@ Neither Omega 3 nor Omega 6 are "good" or "bad". Rather, you need to eat a corre
 
 Generally, most polyunsaturated fats are higher in omega 6 than omega 3. So you need to compensate by eating foods with higher omega 3 amounts.
 
+This is because of shelf life. Generally, foods that have a longer shelf life, have a higher omega 6 ratio. Foods with higher a omega 3 ratio go bad faster.
+
 Generally a 4 to 1 ratio of omega 6 to omega 3 is recommended.
 
 List of oil rich foods with omega 3 higher than omega 6:
@@ -66,8 +68,11 @@ This is the most controversial of all fats. You would have to look at the indivi
 
 ### Good Saturated Fats
 
+The following are known to be good saturated fats
+
 * Lauric acid C12:0 (High in Coconuts)
-* Stearic acid C14:0 (High in Butter)
+* Myristic acid C14:0 (High in Nutmeg butter)
+* Stearic acid C18:0 (High in regular dairy butter)
 
 ### Bad Saturated Fats
 
