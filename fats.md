@@ -74,9 +74,9 @@ This is the most controversial of all fats. You would have to look at the indivi
 
 The following are known to be good saturated fats
 
-* Lauric acid C12:0 (High in Coconuts)
+* Lauric acid C12:0 (High in Coconut oil)
 * Myristic acid C14:0 (High in Nutmeg butter)
-* Stearic acid C18:0 (High in regular dairy butter)
+* Stearic acid C18:0 (High in Cocao butter)
 
 ### Bad Saturated Fats
 
