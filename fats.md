@@ -2,7 +2,9 @@
 
 What are good fats and bad fats?
 
-The science behind this is lacking. Some things we know are true. Some things need more study. Below is everything I know about fats, for your reference.
+The science behind this is lacking. Some things we know are true. Some things need more study.
+
+Below is everything I know about fats, for your reference.
 
 ## What does it mean for a fat to be bad?
 
@@ -27,7 +29,9 @@ All fats can be divided into these categories:
 
 ### Good Trans Fats
 
-Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it break milk. Butter can have about 3% trans fat. This is good trans fat.
+Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it human breast milk.
+
+Butter can have about 3% trans fat. This is good trans fat.
 
 ### Bad Trans Fats
 
