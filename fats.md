@@ -82,5 +82,6 @@ The following are known to be good saturated fats
 
 * Palmitic acid C16:0 (High in Palm oil, and most meats)
 
-Unfortunatly, most foods that are high Saturated Fat are high in the Bad Saturated Fat, Palmitic acid. That is why, generally people avoid all foods with high saturated fat.
+Unfortunatly, most foods that have Saturated Fat are high in the bad kind of Saturated Fat, Palmitic acid.
+That is why, generally people avoid all foods with high saturated fat.
 
