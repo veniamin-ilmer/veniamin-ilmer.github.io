@@ -55,6 +55,7 @@ List of oil rich foods with omega 6 signficantly higher than omega 3:
 * Sunflower oil
 * Sesame oil
 * Corn oil
+* Most "Vegetable oil"
 
 ## Trans fats
 
