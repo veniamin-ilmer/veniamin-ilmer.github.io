@@ -15,7 +15,7 @@ It can also be used to avoid certain food groups for allergy reasons, and find a
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | |
 |Asterales     |Burdock<br>Chicory<br>Dandelion|Lettuce<br>Artichoke|  |Sunflower|
-|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale<br>Arugula|Papaya| |
+|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Broccoli<br>Cauliflower<br>Brussel sprouts<br>Cabbage<br>Kale<br>Arugula|Papaya|Mustard Seed<br>Rapeseed|
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters|
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         |
