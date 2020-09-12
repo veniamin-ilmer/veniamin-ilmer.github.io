@@ -69,11 +69,11 @@ Note that non-fish omega 3 based oils have a low smoke point and are not good fo
 
 ### Good Trans Fats
 
-Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it human breast milk.
+Good trans fats are those that are found in nature. [Vaccenic Acid](https://en.wikipedia.org/wiki/Vaccenic_acid) is a well known good trans fatty acid, found it human breast milk.
 
 Butter can have about 3% trans fat. This is good trans fat.
 
-Another good trans fat is Conjugated Linoleic Acid, which is found mostly in the meat and dairy products derived from ruminant animals.
+Another good trans fat is [Conjugated Linoleic Acid](https://en.wikipedia.org/wiki/Conjugated_linoleic_acid), which is found mostly in the meat and dairy products derived from ruminant animals.
 
 ### Bad Trans Fats
 
@@ -87,7 +87,11 @@ A well known bad trans fat is called [Elaidic acid](https://en.wikipedia.org/wik
 
 ## Saturated Fats
 
-This is the most controversial of all fats. You would have to look at the individual fatty acids to see if the saturated fat is good or not.
+This is the most controversial of all fats. 
+
+Unfortunatly, most foods that have Saturated Fat are high in the bad kind of Saturated Fat, [Palmitic acid](https://en.wikipedia.org/wiki/Palmitic_acid). That is why, generally people avoid all foods with high saturated fat.
+
+However there are good saturated fats too.
 
 ### Good Saturated Fats
 
@@ -97,11 +101,6 @@ The following are known to be good saturated fats
 * Myristic acid C14:0 (High in Nutmeg butter)
 * Stearic acid C18:0 (High in Cocao butter)
 
-### Bad Saturated Fats
+Make sure not to confuse Palm Oil with Palm Kernel Oil. These are different.
 
-* Palmitic acid C16:0 (High in Palm oil, and most meats)
-
-Unfortunatly, most foods that have Saturated Fat are high in the bad kind of Saturated Fat, Palmitic acid.
-That is why, generally people avoid all foods with high saturated fat.
-
-Make sure not to confused Palm Oil with Palm Kernel Oil. These are different.
+Palm Oil has a lot of the bad kind of saturated fat, Palmitic acid, infact the acid was named after the Palm.
