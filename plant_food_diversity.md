@@ -20,7 +20,8 @@ It can also be used to avoid certain food groups for allergy reasons, and find a
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         |
 |Ericales      |       |Tea       |Blueberry<br>Cranberry<br>Kiwi<br>Persimmon|Brazil Nut|
-|Fagales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Butternut<br>Chickpea<br>Hazelnut<br>Lentil<br>Peas<br>Pecan<br>Tamarind<br>Walnut|
+|Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind|
+|Fagales       | | | |Butternut<br>Hazelnut<br>Pecan<br>Walnut|
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
