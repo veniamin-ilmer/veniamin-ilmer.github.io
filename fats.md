@@ -42,6 +42,10 @@ List of foods with high amounts of monounsaturated fats:
 * Avocado
 * Olive oil
 
+Note, there is incorrect information online about a "toxic monunsaturated fat" called Erucic acid.
+
+Erucic acid is toxic to rats in high quantities, but has been found to not be toxic to any other animals, including humans.
+
 ## Polyunsaturated Fats
 
 Neither Omega 3 nor Omega 6 are "good" or "bad". Rather, you need to eat a correct ratio of these two fats to be healthy.
@@ -61,7 +65,7 @@ List of oil rich foods with omega 6 signficantly higher than omega 3:
 * Sunflower oil
 * Sesame oil
 * Corn oil
-* Most "Vegetable oil"
+* Most store oils labeled "Vegetable oil"
 
 Note that non-fish omega 3 based oils have a low smoke point and are not good for frying. They are better for salads.
 
