@@ -48,7 +48,7 @@ Neither Omega 3 nor Omega 6 are "good" or "bad". Rather, you need to eat a corre
 
 Most polyunsaturated fats are higher in omega 6 than omega 3. This is because of shelf life. Foods that have a longer shelf life, generally have a higher omega 6 ratio. Foods with a higher omega 3 ratio go bad faster.
 
-So you need to compensate by eating foods with higher omega 3 amounts. Generally at least a 4 to 1 ratio of omega 6 to omega 3 is recommended.
+So you need to compensate by eating foods with higher omega 3 amounts. The exact ratio is unknown but a 1 to 1 ratio of omega 6 to omega 3 seems to be good.
 
 List of oil rich foods with omega 3 higher than omega 6:
 
@@ -82,6 +82,8 @@ Food processing companies make trans fats with a process called hydrogenation. T
 Companies are known to hide their trans fats from the nutrition label by rounding it amount down to 0 grams. The way to tell if there are any trans fats is by checking for the words "hydrogenated oil" or "partially hydrogenated oil" in the ingredients listing.
 
 The primary location you would find bad trans fats is in margarine, vegetable shortening, and any foods made with these products.
+
+A well known bad trans fat is called [Elaidic acid](https://en.wikipedia.org/wiki/Elaidic_acid).
 
 ## Saturated Fats
 
