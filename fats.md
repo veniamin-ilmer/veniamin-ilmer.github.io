@@ -10,6 +10,10 @@ Below is everything I know about fats, for your reference.
 
 It means it will raise your LDL level and lower your HDL level, which will increase the chance of you having a blood clot, which will cause heart problems.
 
+## What does it mean for a fat to be good?
+
+In addition to reversing the effects of the bad fats, some good fats are also [essential](https://en.wikipedia.org/wiki/Essential_fatty_acid), which means you need to eat enough of them every day, just like a vitamin.
+
 ## Types of fats
 
 All fats can be divided into these categories:
@@ -33,6 +37,8 @@ There seems to be consensus among the scientific community, that all monounsatur
 
 List of foods with high amounts of monounsaturated fats:
 * Macademia nuts
+* Mustard seed
+* Rapeseed (Canola Oil)
 * Avocado
 * Olive oil
 
@@ -66,6 +72,8 @@ Note that non-fish omega 3 based oils have a low smoke point and are not good fo
 Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it human breast milk.
 
 Butter can have about 3% trans fat. This is good trans fat.
+
+Another good trans fat is Conjugated Linoleic Acid, which is found mostly in the meat and dairy products derived from ruminant animals.
 
 ### Bad Trans Fats
 
