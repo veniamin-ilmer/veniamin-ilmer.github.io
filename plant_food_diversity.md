@@ -21,7 +21,7 @@ It can also be used to avoid certain food groups for allergy reasons, and find a
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         |
 |Ericales      |       |Tea       |Blueberry<br>Cranberry<br>Kiwi<br>Persimmon|Brazil Nut|
 |Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind|
-|Fagales       | | | |Butternut<br>Hazelnut<br>Pecan<br>Walnut|
+|Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut|
 |Gentianales   |       |          |            |Coffee   |
 |Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
