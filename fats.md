@@ -14,32 +14,18 @@ It means it will raise your LDL level and lower your HDL level, which will incre
 
 All fats can be divided into these categories:
 
-* Trans fats
-  * "Good Trans Fats"
-  * "Bad Trans Fats"
 * Monounsaturated Fats
 * Polyunsaturated Fats
   * Omega 3
   * Omega 6
+* Trans fats
+  * "Good Trans Fats"
+  * "Bad Trans Fats"
 * Saturated Fats
   * "Good Saturated Fats"
   * "Bad Saturated Fats"
 
-## Trans fats
-
-### Good Trans Fats
-
-Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it human breast milk.
-
-Butter can have about 3% trans fat. This is good trans fat.
-
-### Bad Trans Fats
-
-Food processing companies make trans fats with a process called hydrogenation. They do this because it makes the food last longer. But it is not good for you.
-
-Companies are known to hide their trans fats from the nutrition label by rounding it amount down to 0 grams. The way to tell if there are any trans fats is by checking for the words "hydrogenated oil" or "partially hydrogenated oil" in the ingredients listing.
-
-The primary location you would find bad trans fats is in margarine, vegetable shortening, and any foods made with these products.
+Generally, trans fats and saturated fats are solid at room temperature, while monounsaturated fats and polyunsaturated fats are liquid at room temperature.
 
 ## Monounsaturated Fats
 
@@ -64,6 +50,22 @@ List of oil rich foods with omega 3 higher than omega 6:
 * Flax seed
 * Chia seed
 
+## Trans fats
+
+### Good Trans Fats
+
+Good trans fats are those that are found in nature. Vaccenic Acid is a well known good trans fatty acid, found it human breast milk.
+
+Butter can have about 3% trans fat. This is good trans fat.
+
+### Bad Trans Fats
+
+Food processing companies make trans fats with a process called hydrogenation. They do this because it makes the food last longer. But it is not good for you.
+
+Companies are known to hide their trans fats from the nutrition label by rounding it amount down to 0 grams. The way to tell if there are any trans fats is by checking for the words "hydrogenated oil" or "partially hydrogenated oil" in the ingredients listing.
+
+The primary location you would find bad trans fats is in margarine, vegetable shortening, and any foods made with these products.
+
 ## Saturated Fats
 
 This is the most controversial of all fats. You would have to look at the individual fatty acids to see if the saturated fat is good or not.
@@ -72,7 +74,7 @@ This is the most controversial of all fats. You would have to look at the indivi
 
 The following are known to be good saturated fats
 
-* Lauric acid C12:0 (High in Coconut oil)
+* Lauric acid C12:0 (High in Coconut oil and Palm Kernel Oil)
 * Myristic acid C14:0 (High in Nutmeg butter)
 * Stearic acid C18:0 (High in Cocao butter)
 
@@ -83,3 +85,4 @@ The following are known to be good saturated fats
 Unfortunatly, most foods that have Saturated Fat are high in the bad kind of Saturated Fat, Palmitic acid.
 That is why, generally people avoid all foods with high saturated fat.
 
+Make sure not to confused Palm Oil with Palm Kernel Oil. These are different.
