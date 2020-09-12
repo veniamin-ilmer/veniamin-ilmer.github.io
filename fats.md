@@ -42,7 +42,7 @@ Neither Omega 3 nor Omega 6 are "good" or "bad". Rather, you need to eat a corre
 
 Most polyunsaturated fats are higher in omega 6 than omega 3. This is because of shelf life. Foods that have a longer shelf life, generally have a higher omega 6 ratio. Foods with a higher omega 3 ratio go bad faster.
 
-So you need to compensate by eating foods with higher omega 3 amounts. Generally a 4 to 1 ratio of omega 6 to omega 3 is recommended.
+So you need to compensate by eating foods with higher omega 3 amounts. Generally at least a 4 to 1 ratio of omega 6 to omega 3 is recommended.
 
 List of oil rich foods with omega 3 higher than omega 6:
 
@@ -56,6 +56,8 @@ List of oil rich foods with omega 6 signficantly higher than omega 3:
 * Sesame oil
 * Corn oil
 * Most "Vegetable oil"
+
+Note that non-fish omega 3 based oils have a low smoke point and are not good for frying. They are better for salads.
 
 ## Trans fats
 
