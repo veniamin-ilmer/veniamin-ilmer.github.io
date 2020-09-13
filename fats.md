@@ -42,9 +42,7 @@ List of foods with high amounts of monounsaturated fats:
 * Avocado
 * Olive oil
 
-Note, there is incorrect information online about a "toxic monunsaturated fat" called Erucic acid.
-
-Erucic acid is toxic to rats in high quantities, but has been found to not be toxic to any other animals, including humans.
+Note, there is incorrect information online about a "toxic monunsaturated fat" called Erucic acid. Erucic acid is toxic to rats in high quantities, but has been found to not be toxic to any other animals, including humans.
 
 ## Polyunsaturated Fats
 
@@ -67,7 +65,9 @@ List of oil rich foods with omega 6 signficantly higher than omega 3:
 * Corn oil
 * Most store oils labeled "Vegetable oil"
 
-Note that non-fish omega 3 based oils have a low smoke point and are not good for frying. They are better for salads.
+Note that non-fish omega 3 based oils have a low smoke point and are not good for frying.
+
+In oil form, Omega 3 Fats go rancid quickly. So it's best to consume them in the original form (eat fish and seeds, instead of buying fish oil and seed oil.)
 
 ## Trans fats
 
@@ -81,7 +81,7 @@ Another good trans fat is [Conjugated Linoleic Acid](https://en.wikipedia.org/wi
 
 ### Bad Trans Fats
 
-Food processing companies make trans fats with a process called hydrogenation. They do this because it makes the food last longer. But it is not good for you.
+Food processing companies make trans fats with a process called hydrogenation. They do this because it makes the oil last longer. But it is not good for you.
 
 Companies are known to hide their trans fats from the nutrition label by rounding it amount down to 0 grams. The way to tell if there are any trans fats is by checking for the words "hydrogenated oil" or "partially hydrogenated oil" in the ingredients listing.
 
