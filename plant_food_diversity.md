@@ -4,14 +4,12 @@ Below are example produce you can buy at a store, broken down by Order and part 
 
 The purpose of this information is to try to diversity your diet, to support diverse gut bateria.
 
-It can also be used to avoid certain food groups for allergy reasons, and find alternatives.
-
 ## Ground Plants
 
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    |
 |--------------|-------|----------|------------|---------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
-|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin|
+|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed|
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | |
 |Asterales     |Burdock<br>Chicory<br>Dandelion|Lettuce<br>Artichoke|  |Sunflower|
