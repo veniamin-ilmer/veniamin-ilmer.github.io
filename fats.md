@@ -64,7 +64,7 @@ List of oil rich foods with omega 6 signficantly higher than omega 3:
 * Sesame oil
 * Corn oil
 * Soybean oil
-* Anything labeled "Vegetable oil"
+* "Vegetable oil"
 
 Note that non-fish omega 3 based oils have a low smoke point and are not good for frying.
 
