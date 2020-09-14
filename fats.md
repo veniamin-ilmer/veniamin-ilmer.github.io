@@ -42,7 +42,10 @@ List of foods with high amounts of monounsaturated fats:
 * Avocado
 * Olive oil
 
-Note, there is incorrect information online about a "toxic monunsaturated fat" called Erucic acid. Erucic acid is toxic to rats in high quantities, but has been found to not be toxic to any other animals, including humans.
+A few notes:
+
+* Companies sometimes like to take a good product, like Canola Oil, are ruin it by hydrogenating it, turning it into a trans fat. Check the labels to make sure.
+* There is incorrect information online about a "toxic monunsaturated fat" called Erucic acid. Erucic acid is toxic to rats in high quantities, but has been found to not be toxic to any other animals, including humans.
 
 ## Polyunsaturated Fats
 
