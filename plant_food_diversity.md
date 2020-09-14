@@ -21,7 +21,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind|
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut|
 |Gentianales   |       |          |            |Coffee   |
-|Lamiales      |       |Basil<br>Mint<br>Oregono<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
+|Lamiales      |       |Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
 |Laurales      |Sassafras|Cinnamon|Avocado     |         |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg|
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
