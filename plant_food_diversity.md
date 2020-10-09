@@ -6,38 +6,38 @@ The purpose of this information is to try to diversity your diet, to support div
 
 ## Ground Plants
 
-| Order        | Root  | Stem/Leaf| Fruit      | Seed    |
-|--------------|-------|----------|------------|---------|
-|Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |
-|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed|
-|Arecales      |       |Heart of Palm|Coconut<br>Date|         |
-|Asparagales   |Onion<br>Garlic<br>Shallot|Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | |
-|Asterales     |Burdock<br>Chicory<br>Dandelion|Lettuce<br>Artichoke|  |Sunflower|
-|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed|
-|Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters|
-|Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   |
-|Dioscoreales  |Nagaimo<br>Yam|          |            |         |
-|Ericales      |       |Tea       |Blueberry<br>Cranberry<br>Kiwi<br>Persimmon|Brazil Nut|
-|Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind|
-|Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut|
-|Gentianales   |       |          |            |Coffee   |
-|Lamiales      |       |Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia|
-|Laurales      |Sassafras|Cinnamon|Avocado     |         |
-|Magnoliales   |       |          |            |Mace<br>Nutmeg|
-|Malpighiales  |Cassava|          |Passionfruit|Flaxseed |
-|Malvales      |       |          |Durian      |Cacao    |
-|Myrtales      |       |Clove     |Pomegranate<br>Guava| |
-|Oxalidales    |       |          |Starfruit   |         |
-|Pinales       |       |          |            |Pine nut |
-|Piperales     |       |          |Black Pepper|         |
-|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet|
-|Proteales     |       |          |            |Macadamia|
-|Rosales       |       |          |Apple<br>Pear<br>Peach<br>Plum<br>Jackfruit<br>Fig<br>Cherry<br>Strawberry<br>Raspberry<br>Blackberry|Almond|
-|Sapindales    |       |Maple     |Pomelo<br>Grapefruit<br>Orange<br>Lemon<br>Mango<br>Lychee|Cashew<br>Pistachio|
-|Saxifragales  |       |          |Currant<br>Gooseberry|         |
-|Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| |
-|Vitales       |       |          |Grape       |         |
-|Zingiberales  |Ginger<br>Tumeric| |Banana     |Cardamom |
+| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Top Fiber |
+|--------------|-------|----------|------------|---------|-----------|
+|Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
+|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| Cellulose |
+|Arecales      |       |Heart of Palm|Coconut<br>Date|         | Cellulose |
+|Asparagales   |Onion<br>Garlic<br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
+|Asterales     |Burdock<br>Chicory<br>Dandelion|Lettuce<br>Artichoke|  |Sunflower| Inulin |
+|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| |
+|Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters| |
+|Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   | |
+|Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
+|Ericales      |       |Tea       |Blueberry<br>Cranberry<br>Kiwi<br>Persimmon|Brazil Nut| |
+|Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
+|Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
+|Gentianales   |       |          |            |Coffee   | |
+|Lamiales      |       |Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
+|Laurales      |Sassafras|Cinnamon|Avocado     |         | |
+|Magnoliales   |       |          |            |Mace<br>Nutmeg| |
+|Malpighiales  |Cassava|          |Passionfruit|Flaxseed | |
+|Malvales      |       |          |Durian      |Cacao    | |
+|Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
+|Oxalidales    |       |          |Starfruit   |         | |
+|Pinales       |       |          |            |Pine nut | |
+|Piperales     |       |          |Black Pepper|         | |
+|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
+|Proteales     |       |          |            |Macadamia| |
+|Rosales       |       |          |Apple<br>Pear<br>Peach<br>Plum<br>Jackfruit<br>Fig<br>Cherry<br>Strawberry<br>Raspberry<br>Blackberry|Almond| Pectin |
+|Sapindales    |       |Maple     |Pomelo<br>Grapefruit<br>Orange<br>Lemon<br>Mango<br>Lychee|Cashew<br>Pistachio| Pectin |
+|Saxifragales  |       |          |Currant<br>Gooseberry|         | |
+|Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
+|Vitales       |       |          |Grape       |         | |
+|Zingiberales  |Ginger<br>Tumeric| |Banana     |Cardamom | |
 
 ## Fungi
 
