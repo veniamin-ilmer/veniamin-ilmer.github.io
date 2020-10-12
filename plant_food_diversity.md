@@ -12,7 +12,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         | |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
-|Asterales     |Burdock<br>Chicory<br>Dandelion|Lettuce<br>Artichoke|  |Sunflower| Inulin |
+|Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters| |
 |Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   | |
@@ -21,7 +21,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
 |Gentianales   |       |          |            |Coffee   | |
-|Lamiales      |       |Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
+|Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
 |Laurales      |Sassafras|Cinnamon|Avocado     |         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed | |
