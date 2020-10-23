@@ -6,15 +6,15 @@ The purpose of this information is to try to diversity your diet, to support div
 
 ## Ground Plants
 
-| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Top Fiber |
+| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Nutrient / Compound |
 |--------------|-------|----------|------------|---------|-----------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed|Pectin|
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         | |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
-|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| |
-|Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters| |
+|Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| Myrosinase |
+|Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalic Acid |
 |Cucurbitales  | | |Squash<br>Cucumber<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
@@ -27,13 +27,13 @@ The purpose of this information is to try to diversity your diet, to support div
 |Malpighiales  |Cassava|          |Passionfruit|Flaxseed | |
 |Malvales      |       |          |Durian      |Cacao    | |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
-|Oxalidales    |       |          |Starfruit   |         | |
+|Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
 |Pinales       |       |          |            |Pine nut | |
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
 |Proteales     |       |          |            |Macadamia| |
 |Rosales       |       |          |Blackberry<br>Raspberry<br>Strawberry<br>Pear<br>Apple<br>Peach<br>Fig<br>Cherry<br>Plum<br>Jackfruit|Almond| Pectin |
-|Sapindales    |       |Maple     |Pomelo<br>Grapefruit<br>Orange<br>Lemon<br>Mango<br>Lychee|Cashew<br>Pistachio| Pectin |
+|Sapindales    |       |Maple     |Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
 |Saxifragales  |       |          |Currant<br>Gooseberry|         | |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
 |Vitales       |       |          |Grape       |         | |
