@@ -15,9 +15,9 @@ The purpose of this information is to try to diversity your diet, to support div
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| |
 |Caryophyllales|Beet   |Spinach<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa<br>Lambs quarters| |
-|Cucurbitales  | | |Cucumber<br>Pumpkin<br>Watermelon<br>Cantaloupe<br>Squash|   | |
+|Cucurbitales  | | |Squash<br>Cucumber<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
-|Ericales      |       |Tea       |Blueberry<br>Cranberry<br>Kiwi<br>Persimmon|Brazil Nut| |
+|Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
 |Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
 |Gentianales   |       |          |            |Coffee   | |
@@ -32,7 +32,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
 |Proteales     |       |          |            |Macadamia| |
-|Rosales       |       |          |Apple<br>Pear<br>Peach<br>Plum<br>Jackfruit<br>Fig<br>Cherry<br>Strawberry<br>Raspberry<br>Blackberry|Almond| Pectin |
+|Rosales       |       |          |Blackberry<br>Raspberry<br>Strawberry<br>Pear<br>Apple<br>Peach<br>Fig<br>Cherry<br>Plum<br>Jackfruit|Almond| Pectin |
 |Sapindales    |       |Maple     |Pomelo<br>Grapefruit<br>Orange<br>Lemon<br>Mango<br>Lychee|Cashew<br>Pistachio| Pectin |
 |Saxifragales  |       |          |Currant<br>Gooseberry|         | |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
