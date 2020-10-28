@@ -9,12 +9,12 @@ The purpose of this information is to try to diversity your diet, to support div
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    | Nutrient / Compound |
 |--------------|-------|----------|------------|---------|-----------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
-|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed|Pectin|
+|Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         | |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| Myrosinase |
-|Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalic Acid |
+|Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
 |Cucurbitales  | | |Squash<br>Cucumber<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
