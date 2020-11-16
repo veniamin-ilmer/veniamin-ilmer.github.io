@@ -2,7 +2,7 @@
 
 ## Social Conservative
 
-### Ideal World
+### Ideals
 
 Cultural unity is important. Everyone has a relatively similar background, culture, and/or religion. This similar culture helps people form close friendly communities in their neighborhoods, and look out for each other against people outside of their group.
 
@@ -22,7 +22,7 @@ Social conservatives may try to stop government programs that provide social ben
 
 ## Social Liberal
 
-### Ideal World
+### Ideals
 
 A diverse multicultural environment will mean that people can share their differing experiences to spawn more innovation and creativity.
 
