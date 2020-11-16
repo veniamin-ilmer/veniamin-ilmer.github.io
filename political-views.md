@@ -12,13 +12,15 @@ This community is very protective of their culture, and want to stop outsiders w
 
 That is why they prefer to have a strong police unit, lenient gun regulations, but tight regulations on immigration.
 
-Within their community, social conservatives are happy to share resources with eachother. They can be very generous to eachother. However, they will not be generous to people outside of their community.
+Within their community, social conservatives are happy to share resources with eachother. They can be very generous to eachother.
 
 ### Unintended Consequences
 
-Problems immerge when people with different cultures live among with social conservatives. Social conservatives perceive these outsiders poorly, and end up using discrimination, police, or immigrations laws to try to remove the outsiders.
+Problems immerge when people with different cultures live among with social conservatives. Social conservatives perceive these outsiders poorly, and end up using discrimination, police, violence, or immigrations laws to try to remove the outsiders.
 
-Social conservatives may try to stop government programs that provide social benefits to people outside of their group.
+Although social conservatives are generous to eachother, they may try to stop government programs that provide social benefits to people outside of their group.
+
+To try and protect themselves from outside influence, they might build borders to stop people from coming in the country, and have a large military.
 
 ## Social Liberal
 
@@ -28,7 +30,7 @@ A diverse multicultural environment will mean that people can share their differ
 
 This world can be viewed as a refuge. A safe haven for different types of people.
 
-These people prefer to have lenient immigration laws, to try and boost diversity.
+These people prefer to have lenient immigration laws, to try and boost diversity, with little or no borders/walls with other countries.
 
 People value open-mindedness, openness to new experiences and ideas, openness to being challenged.
 
