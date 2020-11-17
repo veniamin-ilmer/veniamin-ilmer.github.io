@@ -2,18 +2,18 @@
 
 Republican Party:
 
-* [Socially Conservative](#socially-conservative)
-* [Economically Liberal](#economically-liberal)
+* [Socially Conservative](political-ideals#socially-conservative)
+* [Economically Liberal](political-ideals#economically-liberal)
 
 Democratic Party:
 
-* [Socially Liberal](#socially-liberal)
-* [Economically Conservative](#economically-conservative)
+* [Socially Liberal](political-ideals#socially-liberal)
+* [Economically Conservative](political-ideals#economically-conservative)
 
 Libertarian Party:
 
-* [Socially Liberal](#socially-liberal)
-* [Economically Liberal](#economically-liberal)
+* [Socially Liberal](political-ideals#socially-liberal)
+* [Economically Liberal](political-ideals#economically-liberal)
 
 ## Canadian Parties
 
