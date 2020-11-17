@@ -60,4 +60,4 @@ Everyone has stable / secure jobs. The government
 
 ### Unintended Consequences
 
-In order to insure job security,
+In order to ensure job security, the government may have high trade tariffs with other countries.
