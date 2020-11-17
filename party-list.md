@@ -76,8 +76,6 @@ Justice Party (정의당):
 * [Socially Liberal](political-ideals#socially-liberal)
 * [Economically Conservative](political-ideals#economically-conservative)
 
-People Party (국민의당):
-
 ## Japanese Parties
 
 Liberal Democratic Party (自由民主党):
