@@ -92,4 +92,6 @@ Lack of job stability, competition for jobs, means that some people will be more
 
 A high wealth gap causes strangers to not trust each-other. There is less community involvement, more crime, people are less happy.
 
-Lack of consumer protections and pollution regulations, will allow for some accidents to happen. Contaminated food, polluted rivers, preditory consumer loans, can all slowly increase over time if there is no oversight.
+Lack of consumer protections and pollution regulations, will allow for some accidents to happen. Out of competition, companies may opt to lower costs by adulterating food or dump their trash into water ways.
+
+Contaminated food, polluted rivers, preditory lending, marketing scams, can all slowly increase over time if there is low oversight.
