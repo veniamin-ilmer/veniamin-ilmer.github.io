@@ -56,8 +56,24 @@ Sometimes laws can be poorly written to help certain minorities more than others
 
 ### Ideals
 
-Everyone has stable / secure jobs. 
+Everyone has enough money to support themselves. This is done with stable / secure jobs, and government benefits.
+
+There are a lot of strict consumer protection laws. Food and drugs has to pass through multiple screenings for contamination / adulteration / pathogens. Products need to pass through various regulation, fireproofing, childproofing, housing codes, etc. creating a very safe environment for all of the consumers.
+
+The government monitors manufacturer's pollution output. Companies pay more for generating excess waste. Ideally, the environment will look very green, with drinkable rivers, and lush forests.
 
 ### Unintended Consequences
 
-In order to ensure job security, the government may have high trade tariffs with other countries. This may mean some foreign products are not available for purchase. Some products might also be very expensive.
+In order to ensure job security, the government may impose high trade tariffs on other countries. This may mean some foreign products are not available for purchase, or very expensive.
+
+Because of all of the strict laws, small companies have difficulty maintaining all of the secure jobs, and passing through all of the inspections. Hence, most of the companies will be large, monopolistic, and frequently run by the government.
+
+Big companies and big government are inefficient. There isn't much technological innovation. New products come out very slowly. People end up with slow, meaningless jobs.
+
+People end up paying high taxes to sustain all of the government programs and inefficiency of large organizations.
+
+## Economically Liberal
+
+### Ideals
+
+With freedom to change and innovate, there is always new technology, making things more efficient.
