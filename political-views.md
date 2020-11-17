@@ -56,8 +56,8 @@ Sometimes laws can be poorly written to help certain minorities more than others
 
 ### Ideals
 
-Everyone has stable / secure jobs. The government
+Everyone has stable / secure jobs. 
 
 ### Unintended Consequences
 
-In order to ensure job security, the government may have high trade tariffs with other countries.
+In order to ensure job security, the government may have high trade tariffs with other countries. This may mean some foreign products are not available for purchase. Some products might also be very expensive.
