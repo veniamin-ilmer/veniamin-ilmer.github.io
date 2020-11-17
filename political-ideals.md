@@ -91,3 +91,5 @@ With low taxes, people are incentivised to try and generate as much income as po
 Lack of job stability, competition for jobs, means that some people will be more successful than others at generating wealth. Eventually, there might be a large wealth gap between the rich and the poor.
 
 A high wealth gap causes strangers to not trust each-other. There is less community involvement, more crime, people are less happy.
+
+Lack of consumer protections and pollution regulations, will allow for some accidents to happen. Contaminated food, polluted rivers, preditory consumer loans, can all slowly increase over time if there is no oversight.
