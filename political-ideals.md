@@ -94,7 +94,7 @@ Government inefficiency might cause shortages and long queues for certain produc
 
 ### Ideals
 
-With lenient regulations, people can open small business, and build products and services efficiently.
+With lenient regulations, people can open small business, and build products and services efficiently. Less regulations means less government involvement. Smaller government means less inefficiency.
 
 With freedom to change and innovate, there is always new technology, making things more efficient.
 
