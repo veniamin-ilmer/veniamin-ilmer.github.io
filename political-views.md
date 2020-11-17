@@ -64,7 +64,7 @@ The government monitors manufacturer's pollution output. Companies pay more for 
 
 ### Unintended Consequences
 
-In order to ensure job security, the government may impose high trade tariffs on other countries. This may mean some foreign products are not available for purchase, or very expensive.
+In order to ensure job security, the government may impose high trade tariffs on other countries. This may mean some foreign products are not available for purchase, or very expensive. On average, people will have a poorer standard of living compared to other countries.
 
 Because of all of the strict laws, small companies have difficulty maintaining all of the secure jobs, and passing through all of the inspections. Hence, most of the companies will be large, monopolistic, and frequently run by the government.
 
@@ -77,3 +77,5 @@ People end up paying high taxes to sustain all of the government programs and in
 ### Ideals
 
 With freedom to change and innovate, there is always new technology, making things more efficient.
+
+This country will be able to outcompete others in product generating.
