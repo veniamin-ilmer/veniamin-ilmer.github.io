@@ -93,9 +93,26 @@ Komeito (公明党):
 * [Economically Liberal](political-ideals#economically-liberal)
 * Socially Unknown
 
+## Mexico Parties
+
+National Action Party (Partido Acción Nacional):
+
+* [Economically Liberal](political-ideals#economically-liberal)
+* [Socially Conservative](political-ideals#socially-conservative)
+
+Institutional Revolutionary Party (Partido Revolucionario Institucional):
+
+* [Economically Liberal](political-ideals#economically-liberal)
+* [Socially Conservative](political-ideals#socially-conservative)
+
+Party of the Democratic Revolution (Partido de la Revolución Democrática):
+
+* [Socially Liberal](political-ideals#socially-liberal)
+* Economically Mixed
+
 ## Russian Party
 
-United Russia (Единая Россия)
+United Russia (Единая Россия):
 
 * [Socially Conservative](political-ideals#socially-conservative)
 * [Economically Conservative](political-ideals#economically-conservative)
