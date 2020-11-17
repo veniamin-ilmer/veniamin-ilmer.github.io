@@ -72,7 +72,7 @@ Government inefficiency might cause shortages and long queues for certain produc
 
 With lenient regulations, people can open small business, and build products and services efficiently. Less regulations means less government involvement. Smaller government means less inefficiency.
 
-With freedom to change and innovate, there is always new technology, making things more efficient.
+With privatization, there is more freedom to change and innovate, there is always new technology, making things more efficient.
 
 This country will be able to outcompete others, leading the market, being a major product creators.
 
