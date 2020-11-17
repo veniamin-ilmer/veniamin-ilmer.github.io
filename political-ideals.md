@@ -25,7 +25,7 @@ Cultural unity is important. Everyone has a relatively similar background, cultu
 
 Usually they idealize having large families, and hence it is important for everyone to have children.
 
-This community is very protective of their culture, and want to stop outsiders with different cultures from intruding into their lives.
+This community is very protective of their traditions and culture, and want to stop outsiders with different cultures from intruding into their lives.
 
 That is why they prefer to have a strong police unit, lenient gun regulations, but tight regulations on immigration.
 
