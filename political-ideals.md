@@ -4,18 +4,29 @@
 
 Republican Party:
 
-* [Economically Liberal](#economically-liberal)
 * [Socially Conservative](#socially-conservative)
+* [Economically Liberal](#economically-liberal)
 
 Democratic Party:
 
-* [Economically Conservative](#economically-conservative)
 * [Socially Liberal](#socially-liberal)
+* [Economically Conservative](#economically-conservative)
 
 Libertarian Party:
 
-* [Economically Liberal](#economically-liberal)
 * [Socially Liberal](#socially-liberal)
+* [Economically Liberal](#economically-liberal)
+
+## Canadian Politics
+
+Liberal Party:
+
+* [Socially Liberal](#socially-liberal)
+
+Conservative Party:
+
+* [Economically Liberal](#economically-liberal)
+
 
 ## Socially Conservative
 
@@ -88,6 +99,8 @@ With lenient regulations, people can open small business, and build products and
 With freedom to change and innovate, there is always new technology, making things more efficient.
 
 This country will be able to outcompete others, leading the market, being a major product creators.
+
+Free trade allows prices to be very low, and allows for a more friendly environment with other countries.
 
 With low taxes, people are incentivised to try and generate as much income as possible. On average, people will have a richer standard of living compared to other countries.
 
