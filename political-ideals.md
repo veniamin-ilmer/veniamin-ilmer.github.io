@@ -84,7 +84,7 @@ With freedom to change and innovate, there is always new technology, making thin
 
 This country will be able to outcompete others, leading the market, being a major product creators.
 
-With low taxes, people have incentives to try and generate as much income as possible. On average, people will have a richer standard of living compared to other countries.
+With low taxes, people are incentivised to try and generate as much income as possible. On average, people will have a richer standard of living compared to other countries.
 
 ### Unintended Consequences
 
