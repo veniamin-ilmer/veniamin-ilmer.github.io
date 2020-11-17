@@ -1,6 +1,6 @@
 # Political Ideals
 
-Want to see which political ideals your political party adhers to?
+Want to see which political ideals your political party adheres to?
 
 [View List of Political Parties](party-list)
 
