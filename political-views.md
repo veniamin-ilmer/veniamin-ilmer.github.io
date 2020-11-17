@@ -4,15 +4,15 @@
 
 Republican Party:
 
-* Socially Conservative
-* Economically Liberal
+* [Socially Conservative](#socially-conservative)
+* [Economically Liberal](#economically-liberal)
 
 Democratic Party:
 
-* Economically Conservative
-* Socially Liberal
+* [Economically Conservative](#economically-conservative)
+* [Socially Liberal](#socially-liberal)
 
-## Social Conservative
+## Socially Conservative
 
 ### Ideals
 
@@ -34,7 +34,7 @@ Although social conservatives are generous to eachother, they may try to stop go
 
 To try and protect themselves from outside influence, they might build borders to stop people from coming in the country, and have a large military.
 
-## Social Liberal
+## Socially Liberal
 
 ### Ideals
 
@@ -52,4 +52,12 @@ A multicultural environment makes it hard for strangers to trust each other. Peo
 
 Sometimes laws can be poorly written to help certain minorities more than others, which may be viewed as unfair.
 
-Some cultures living in this 
+## Economically Conservative
+
+### Ideals
+
+Everyone has stable / secure jobs. The government
+
+### Unintended Consequences
+
+In order to insure job security,
