@@ -1,15 +1,20 @@
 # Political Ideals
 
-## American Politics
+## United States Politics
 
 Republican Party:
 
-* [Socially Conservative](#socially-conservative)
 * [Economically Liberal](#economically-liberal)
+* [Socially Conservative](#socially-conservative)
 
 Democratic Party:
 
 * [Economically Conservative](#economically-conservative)
+* [Socially Liberal](#socially-liberal)
+
+Libertarian Party:
+
+* [Economically Liberal](#economically-liberal)
 * [Socially Liberal](#socially-liberal)
 
 ## Socially Conservative
