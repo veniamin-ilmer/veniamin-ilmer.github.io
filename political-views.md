@@ -1,5 +1,17 @@
 # Political Views
 
+## American Politics
+
+Republican Party:
+
+* Socially Conservative
+* Economically Liberal
+
+Democratic Party:
+
+* Economically Conservative
+* Socially Liberal
+
 ## Social Conservative
 
 ### Ideals
@@ -39,3 +51,5 @@ People value open-mindedness, openness to new experiences and ideas, openness to
 A multicultural environment makes it hard for strangers to trust each other. People might self-censor themselves to stop from accidently making someone of a different culture be uncomfortable. Certain topics become controversial to talk about. With most communication being shallow all of the time, people might end up with few or no close friends.
 
 Sometimes laws can be poorly written to help certain minorities more than others, which may be viewed as unfair.
+
+Some cultures living in this 
