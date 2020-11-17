@@ -80,4 +80,17 @@ People Party (국민의당):
 
 ## Japanese Parties
 
-Liberal Democratic Party
+Liberal Democratic Party (自由民主党):
+
+* [Economically Liberal](political-ideals#economically-liberal)
+* [Socially Conservative](political-ideals#socially-conservative)
+
+Constitutional Democratic Party of Japan (立憲民主党):
+
+* [Economically Conservative](political-ideals#economically-conservative)
+* Socially Unknown
+
+Komeito (公明党):
+
+* [Economically Liberal](political-ideals#economically-liberal)
+* Socially Unknown
