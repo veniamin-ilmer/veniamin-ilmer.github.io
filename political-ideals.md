@@ -1,65 +1,8 @@
 # Political Ideals
 
-## United States Parties
+Want to see which political ideals your political party adhers to?
 
-Republican Party:
-
-* [Socially Conservative](#socially-conservative)
-* [Economically Liberal](#economically-liberal)
-
-Democratic Party:
-
-* [Socially Liberal](#socially-liberal)
-* [Economically Conservative](#economically-conservative)
-
-Libertarian Party:
-
-* [Socially Liberal](#socially-liberal)
-* [Economically Liberal](#economically-liberal)
-
-## Canadian Parties
-
-Liberal Party:
-
-* [Socially Liberal](#socially-liberal)
-* [Economically Conservative](#economically-conservative)
-
-Conservative Party:
-
-* [Economically Liberal](#economically-liberal)
-* Socially mixed
-
-Bloc Québécois:
-
-* [Socially Liberal](#socially-liberal)
-* Economically mixed
-
-## UK Parties
-
-Conservative Party:
-
-* [Socially Conservative](#socially-conservative)
-* Economically mixed
-
-Labour Party:
-
-* [Economically Conservative](#economically-conservative)
-* Socially mixed
-
-Scottish National Party:
-
-* [Socially Liberal](#socially-liberal)
-* [Economically Conservative](#economically-conservative)
-
-Liberal Democrats:
-
-* [Socially Liberal](#socially-liberal)
-* [Economically Conservative](#economically-conservative)
-
-Democratic Unionist Party:
-
-* [Socially Conservative](#socially-conservative)
-* Economically mixed
+[View List of Political Parties](party-list)
 
 ## Socially Conservative
 
