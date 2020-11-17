@@ -92,3 +92,10 @@ Komeito (公明党):
 
 * [Economically Liberal](political-ideals#economically-liberal)
 * Socially Unknown
+
+## Russian Party
+
+United Russia (Единая Россия)
+
+* [Socially Conservative](political-ideals#socially-conservative)
+* [Economically Conservative](political-ideals#economically-conservative)
