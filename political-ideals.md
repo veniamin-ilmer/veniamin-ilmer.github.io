@@ -1,4 +1,4 @@
-# Political Views
+# Political Ideals
 
 ## American Politics
 
@@ -28,7 +28,7 @@ Within their community, social conservatives are happy to share resources with e
 
 ### Unintended Consequences
 
-Problems immerge when people with different cultures live among with social conservatives. Social conservatives perceive these outsiders poorly, and end up using discrimination, police, violence, or immigrations laws to try to remove the outsiders.
+Problems immerge when people with different cultures live among with social conservatives. Social conservatives perceive these outsiders poorly, and end up using discrimination, police, violence, and / or immigrations laws to try to remove the outsiders.
 
 Although social conservatives are generous to eachother, they may try to stop government programs that provide social benefits to people outside of their group.
 
@@ -64,18 +64,30 @@ The government monitors manufacturer's pollution output. Companies pay more for 
 
 ### Unintended Consequences
 
-In order to ensure job security, the government may impose high trade tariffs on other countries. This may mean some foreign products are not available for purchase, or very expensive. On average, people will have a poorer standard of living compared to other countries.
+In order to ensure job security, the government may impose high trade tariffs on other countries. This may mean some foreign products are not available for purchase, or very expensive.
 
 Because of all of the strict laws, small companies have difficulty maintaining all of the secure jobs, and passing through all of the inspections. Hence, most of the companies will be large, monopolistic, and frequently run by the government.
 
 Big companies and big government are inefficient. There isn't much technological innovation. New products come out very slowly. People end up with slow, meaningless jobs.
 
-People end up paying high taxes to sustain all of the government programs and inefficiency of large organizations.
+People end up paying high taxes to sustain all of the government programs and inefficiency of large organizations. On average, people will have a poorer standard of living compared to other countries.
+
+Government inefficiency might cause shortages and long queues for certain products. Product shortages might lead to bribes and discrimination.
 
 ## Economically Liberal
 
 ### Ideals
 
+With lenient regulations, people can open small business, and build products and services efficiently.
+
 With freedom to change and innovate, there is always new technology, making things more efficient.
 
-This country will be able to outcompete others in product generating.
+This country will be able to outcompete others, leading the market, being a major product creators.
+
+With low taxes, people have incentives to try and generate as much income as possible. On average, people will have a richer standard of living compared to other countries.
+
+### Unintended Consequences
+
+Lack of job stability, competition for jobs, means that some people will be more successful than others at generating wealth. Eventually, there might be a large wealth gap between the rich and the poor.
+
+A high wealth gap causes strangers to not trust each-other. There is less community involvement, more crime, people are less happy.
