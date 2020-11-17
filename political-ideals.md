@@ -22,11 +22,15 @@ Libertarian Party:
 Liberal Party:
 
 * [Socially Liberal](#socially-liberal)
+* [Economically Conservative](#economically-conservative)
 
 Conservative Party:
 
 * [Economically Liberal](#economically-liberal)
 
+Bloc Québécois:
+
+* [Socially Liberal](#socially-liberal)
 
 ## Socially Conservative
 
