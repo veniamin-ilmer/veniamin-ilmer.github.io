@@ -18,7 +18,7 @@ I feel everyone has deep meaningful lives. I feel life is very valuable, and I f
 
 I am lucky that my childhood interest in programming has given me a strong diverse career. I recognize that a lot of my, and probably most other people's, success is due to luck. Sure, my skillset has definitely developed over time, but a lot of lucky things helped me get here. It makes me feel bad about everyone else who was not as lucky.
 
-I feel college was useful for a degree, but it hardly provided any educational value. I feel I missed out on sustaining friendships from college, simply by not asking for their phone numbers. I only realized this later in life, and regret it. I attempt to keep in touch with a few remaining contacts from previous jobs, but it is hard to maintain contact.
+I feel college was useful for a degree, but it hardly provided any educational value. I feel I missed out on sustaining friendships from college, simply by not asking for their phone numbers. I only realized this later in life, and regret it. I attempt to keep in touch with a few remaining contacts from previous jobs, but it is hard to maintain the long distance communication.
 
 I think people usually have good intentions for everything they do. Unfortunately conflicts of interest may cause people to logically go against their good intentions, simply to get more money/power.
 As a consequence, I have trust issues with doctors, dentists, lawyers, car mechanics, and anyone else who I would pay to do things for me, that I can't really verify myself. For such things, I can only trust my close friends. I am lucky my wife is a doctor. I will trust her word over anyone elses.
