@@ -1,10 +1,14 @@
 # Defining myself
 
+The purpose of this page is a self reflection. I hope I will be able to use this to decide how I should proceed with my life in the future.
+
+## Who am I?
+
 I am a very detail oriented person. I strive to understand the fundamentals of anything I study. Regardless of my age, I continue to view myself as a perpetual student.
 
 Example of things I study are programming, analog electronics, mathematics, food health, wealth management, and basic linguistics.
 
-I frequently question my fundamental assumptions about everything. Why is 0 * any number equal to 0? Are milk and eggs actually healthy? Why do computers work with 1 and 0, for a positive and neutral signal, and not 1, 0, and -1?
+I frequently question my fundamental assumptions about everything. Why is 0 * any number equal to 0? Are milk and eggs actually healthy? Why do computers work with 1 and 0 electric signals, and not 1, 0, and -1?
 
 I have always prided myself about being physically fit (while being a nerd at the same time). When I was younger I did gymnastics, rock climbing, and parkour. Now-a-days, I just go out for long walks. They make me feel good. I look forward to being to doing outdoor activites with my kids as they grow up.
 
@@ -20,3 +24,5 @@ I think people usually have good intentions for everything they do. Unfortunatel
 As a consequence, I have trust issues with doctors, dentists, lawyers, car mechanics, and anyone else who I would pay to do things for me, that I can't really verify myself. For such things, I can only trust my close friends. I am lucky my wife is a doctor. I will trust her word over anyone elses.
 
 I feel most of humanities problems can be solved. However they don't get solved for centuries due to conflicts of interest. I feel that this issue will not be resolved simply by electing the right group of people into office. Instead it would require a collaborative effort to architect a system of governance that minimizes conflicts of interest from the future people in power.
+
+Although politically things usually seem to go in a poor direction, I am generally look towards the future with a positive outlook. The pace of emerging technology is increasing at an exponential rate. In this new millenium of year 2000, I feel like we are living in the future. I believe that this incredible technology will eventually allow us to overcome our political struggles.
