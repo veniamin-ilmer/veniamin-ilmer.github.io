@@ -8,7 +8,7 @@ I am a very detail oriented person. I strive to understand the fundamentals of a
 
 Example of things I study are programming, analog electronics, mathematics, food health, wealth management, and basic linguistics.
 
-I frequently question my fundamental assumptions about everything. Why is 0 * any number equal to 0? Are milk and eggs actually healthy? Why do computers work with 1 and 0 electric signals, and not 1, 0, and -1?
+I frequently question my fundamental assumptions about everything. Why is 0 * any number equal to 0? Are milk and eggs actually healthy? Why do computers work with 1 and 0 electric signals, and not 1, 0, and -1? And although I enjoy thinking about these things for hours, I hate sitting indoors all day.
 
 I have always prided myself about being physically fit (while being a nerd at the same time). When I was younger I did gymnastics, rock climbing, and parkour. Now-a-days, I just go out for long walks. They make me feel good. I look forward to being to doing outdoor activites with my kids as they grow up.
 
