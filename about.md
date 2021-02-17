@@ -4,6 +4,8 @@ The purpose of this page is a self reflection. I hope I will be able to use this
 
 ## Who am I?
 
+I like to pace around when I am thinking. Some people get annoyed by this. Yet, several people have told me that I make them feel more calm.
+
 I am a very detail oriented person. I strive to understand the fundamentals of anything I study. Regardless of my age, I continue to view myself as a perpetual student.
 
 Example of things I study are programming, analog electronics, mathematics, food health, wealth management, and basic linguistics.
