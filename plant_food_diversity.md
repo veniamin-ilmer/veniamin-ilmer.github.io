@@ -24,7 +24,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
 |Laurales      |Sassafras|Cinnamon|Avocado     |         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
-|Malpighiales  |Cassava|          |Passionfruit|Flaxseed | |
+|Malpighiales  |Cassava<br>Yuca|          |Passionfruit|Flaxseed | |
 |Malvales      |       |          |Durian<br>Okra|Cacao    | |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
