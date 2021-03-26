@@ -18,7 +18,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Cucurbitales  | | |Squash<br>Cucumber<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
 |Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
-|Fabales       |Jicama<br>Liquorice<br>Peanut| | |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
+|Fabales       |Jicama<br>Peanut|Liquorice| |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
 |Gentianales   |       |          |            |Coffee   | |
 |Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
