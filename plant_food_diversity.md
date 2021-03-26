@@ -30,8 +30,8 @@ The purpose of this information is to try to diversity your diet, to support div
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
 |Pinales       |       |          |            |Pine nut | |
 |Piperales     |       |          |Black Pepper|         | |
-|Poales        |       |Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
-|Proteales     |       |          |            |Macadamia| |
+|Poales        |Water Chestnut|Sugarcane |Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
+|Proteales     |Lotus root|          |            |Macadamia| |
 |Rosales       |       |          |Blackberry<br>Raspberry<br>Strawberry<br>Pear<br>Apple<br>Peach<br>Fig<br>Cherry<br>Plum<br>Jackfruit|Almond| Pectin |
 |Sapindales    |       |Maple     |Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
 |Saxifragales  |       |          |Currant<br>Gooseberry|         | |
