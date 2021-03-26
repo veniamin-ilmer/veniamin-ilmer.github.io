@@ -6,7 +6,7 @@ The purpose of this information is to try to diversity your diet, to support div
 
 ## Ground Plants
 
-| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Nutrient / Compound |
+| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Antinutrient / Fiber |
 |--------------|-------|----------|------------|---------|-----------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
