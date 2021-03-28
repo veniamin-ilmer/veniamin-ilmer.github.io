@@ -15,8 +15,8 @@ The purpose of this information is to try to diversity your diet, to support div
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<br>Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| Myrosinase |
 |Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
-|Cucurbitales  | | |Squash<br>Cucumber<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
-|Dioscoreales  |Nagaimo<br>Yam|          |            |         | |
+|Cucurbitales  | | |Squash<br>Cucumber<br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
+|Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
 |Fabales       |Jicama<br>Peanut|Liquorice| |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
 |Fagales       | | | |Butternut<br>Chestnut<br>Hazelnut<br>Pecan<br>Walnut| |
@@ -24,7 +24,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Lamiales      |Chinese Artichoke|Basil<br>Mint<br>Oregano<br>Rosemary<br>Sage|Olive|Sesame<br>Chia| |
 |Laurales      |Sassafras|Cinnamon|Avocado     |         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
-|Malpighiales  |Cassava<br>Yuca|          |Passionfruit|Flaxseed | |
+|Malpighiales  |Cassava (Yuca)|          |Passionfruit|Flaxseed | |
 |Malvales      |       |          |Durian<br>Okra|Cacao    | |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
@@ -43,7 +43,7 @@ The purpose of this information is to try to diversity your diet, to support div
 
 | Order     |Fruit   |
 |-----------|--------|
-|Agaricales |Common Mushroom<br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake|
+|Agaricales |Common Mushroom<br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
 |Auriculariales|Jelly Ear|
 |Pezizales  |Truffle<br>Morchella (Morel)|
 |Russulales |Lion's Mane Mushroom|
