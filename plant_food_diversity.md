@@ -15,7 +15,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke<br>Chamomile|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<br>Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| Myrosinase |
 |Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
-|Cucurbitales  | | |Squash<br>Cucumber<br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon<br>Chayote<br>Munkfruit|   | |
+|Cucurbitales  | | |Squash / Zucchini<br>Cucumber<br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon<br>Chayote<br>Munkfruit|   | |
 |Dioscoreales  |Nagaimo<br>Chinese/African Yam|          |            |         | |
 |Ericales      |       |Tea       |Cranberry<br>Blueberry<br>Kiwi<br>Persimmon|Brazil Nut| |
 |Fabales       |Jicama<br>Peanut|Liquorice| |Alfalfa<br>Beans<br>Chickpea<br>Lentil<br>Peas<br>Tamarind| |
