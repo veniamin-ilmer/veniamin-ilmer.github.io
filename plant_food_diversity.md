@@ -12,7 +12,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         | |
 |Asparagales   |Onion<br>Garlic<br>Shallot|Agave<br>Aloe vera<br>Asparagus<br>Chive<br>Leek<br>Saffron<br>Vanilla| | | Inulin / Fructan |
-|Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke|  |Sunflower| Inulin |
+|Asterales     |Burdock<br>Chicory<br>Dandelion<br>Jerusalem Artichoke|Lettuce<br>Artichoke<br>Chamomile|  |Sunflower| Inulin |
 |Brassicales   |Daikon<br>Turnip<br>Radish<br>Horseradish|Collard<br>Arugula<br>Broccoli<br>Brussel sprouts<br>Cauliflower<br>Cabbage<br>Garden Cress<br>Kale|Papaya|Mustard Seed<br>Rapeseed| Myrosinase |
 |Caryophyllales|Beet   |Spinach<br>Lambs quarters<br>Rhubarb<br>Shard|Dragon fruit<br>Pitaya<br>Prickly pear|Buckwheat<br>Amaranth<br>Quinoa| Oxalate |
 |Cucurbitales  | | |Squash<br>Cucumber<br>Chinese Okra<br>Cantaloupe<br>Pumpkin<br>Watermelon|   | |
