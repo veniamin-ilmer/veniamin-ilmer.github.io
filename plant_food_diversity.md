@@ -25,7 +25,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Laurales      |Sassafras|Cinnamon|Avocado     |         | |
 |Magnoliales   |       |          |            |Mace<br>Nutmeg| |
 |Malpighiales  |Cassava (Yuca)|          |Passionfruit|Flaxseed | |
-|Malvales      |       |          |Durian<br>Okra|Cacao    | |
+|Malvales      |       |Hibiscus|Durian<br>Okra<br>Roselle|Cacao    | |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
 |Pinales       |       |          |            |Pine nut | |
