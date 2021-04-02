@@ -33,6 +33,7 @@ The purpose of this information is to try to diversity your diet, to support div
 |Poales        |Water Chestnut|Bamboo Shoots<br>Sugarcane|Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
 |Proteales     |Lotus root|          |            |Macadamia| |
 |Rosales       |       |          |Blackberry<br>Raspberry<br>Strawberry<br>Pear<br>Apple<br>Peach<br>Fig<br>Cherry<br>Plum<br>Jackfruit|Almond| Pectin |
+|Ranunculales  |       |          |Barberry    |Poppy Seeds| |
 |Sapindales    |       |Maple     |Kumquat<br>Lemon<br>Orange<br>Grapefruit<br>Mango<br>Pomelo<br>Lychee|Cashew<br>Pistachio| Pectin |
 |Saxifragales  |       |          |Currant<br>Gooseberry|         | |
 |Solanales     |Potato<br>Sweet Potato<br>Batata| |Tomato<br>Tomatillo<br>Sweet Pepper<br>Chili Pepper<br>Eggplant| | |
