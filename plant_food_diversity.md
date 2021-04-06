@@ -4,7 +4,7 @@ Below are example produce you can buy at a store, broken down by Order and part 
 
 The purpose of this information is to try to diversity your diet, to support diverse gut bateria.
 
-## Ground Plants
+## Flowering Plants
 
 | Order        | Root  | Stem/Leaf| Fruit      | Seed    | Antinutrient / Fiber |
 |--------------|-------|----------|------------|---------|-----------|
@@ -40,15 +40,12 @@ The purpose of this information is to try to diversity your diet, to support div
 |Vitales       |       |          |Grape       |         | |
 |Zingiberales  |Ginger<br>Tumeric| |Banana     |Cardamom | |
 
-## Fungi
+## Ferns
 
-| Order     |Fruit   |
-|-----------|--------|
-|Agaricales |Common Mushroom<br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
-|Auriculariales|Jelly Ear|
-|Pezizales  |Truffle<br>Morchella (Morel)|
-|Russulales |Lion's Mane Mushroom|
-|Tremellales|Snow Fungus|
+| Order       | Stem/Leaf|
+|-------------|----------|
+|Osmundales   |Cinnamon fern<br>Royal fern<br>Zenmai|
+|Polypodiales |Vegetable fern<br>Bracken<br>Lady fern<br>Midin<br>Ostrich fern<br>Western swordfern|
 
 ## Seaweed
 
@@ -59,3 +56,13 @@ The purpose of this information is to try to diversity your diet, to support div
 |Gracilariales |Ogonori (Agar)|
 |Laminariales  |Kelp<br>Wakame|
 |Ulvales       |Sea Lettuce<br>Gutweed|
+
+## Fungi
+
+| Order     |Fruit   |
+|-----------|--------|
+|Agaricales |Common Mushroom<br>Tree Mushroom<br>Shiitake<br>Enokitake<br>Beech Mushroom<br>Wine Cap Stropharia<br>Poplar<br>Matsutake<br>King / Trumpet Mushroom|
+|Auriculariales|Jelly Ear|
+|Pezizales  |Truffle<br>Morchella (Morel)|
+|Russulales |Lion's Mane Mushroom|
+|Tremellales|Snow Fungus|
