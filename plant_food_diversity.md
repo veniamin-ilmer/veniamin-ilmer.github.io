@@ -6,8 +6,8 @@ The purpose of this information is to try to diversity your diet, to support div
 
 ## Flowering Plants
 
-| Order        | Root  | Stem/Leaf| Fruit      | Seed    | Antinutrient / Fiber |
-|--------------|-------|----------|------------|---------|-----------|
+| Order        | Root  | Stem/Leaf | Fruit      | Seed    | Antinutrient / Fiber |
+|--------------|-------|-----------|------------|---------|-----------|
 |Alismatales   |Taro Corm<br>Eddo<br>Yautia| | |         |           |
 |Apiales       |Carrot<br>Parsnip<br>Celeriac<br>Finocchio<br>Ginseng|Celery<br>Dill<br>Parsely<br>Fennel|Coriander<br>Anise|Caraway<br>Cumin<br>Dill Seed| |
 |Arecales      |       |Heart of Palm|Coconut<br>Date|         | |
@@ -28,7 +28,6 @@ The purpose of this information is to try to diversity your diet, to support div
 |Malvales      |       |Hibiscus|Durian<br>Okra<br>Roselle|Cacao    | |
 |Myrtales      |       |Clove     |Pomegranate<br>Guava| | |
 |Oxalidales    |       |          |Starfruit   |         | Oxalic Acid |
-|Pinales       |       |          |            |Pine nut | |
 |Piperales     |       |          |Black Pepper|         | |
 |Poales        |Water Chestnut|Bamboo Shoots<br>Sugarcane|Pineapple   |Rice<br>Oat<br>Wheat<br>Rye<br>Barley<br>Corn<br>Sorghum<br>Millet| |
 |Proteales     |Lotus root|          |            |Macadamia| |
@@ -40,17 +39,18 @@ The purpose of this information is to try to diversity your diet, to support div
 |Vitales       |       |          |Grape       |         | |
 |Zingiberales  |Ginger<br>Tumeric| |Banana     |Cardamom | |
 
-## Ferns
+## Non-flowering plants
 
-| Order       | Stem/Leaf|
-|-------------|----------|
-|Osmundales   |Cinnamon fern<br>Royal fern<br>Zenmai|
-|Polypodiales |Vegetable fern<br>Bracken<br>Lady fern<br>Midin<br>Ostrich fern<br>Western swordfern|
+| Order       | Stem/Leaf | Seed | 
+|-------------|-----------|------|
+|Osmundales   |Cinnamon fern<br>Royal fern<br>Zenmai| |
+|Polypodiales |Vegetable fern<br>Bracken<br>Lady fern<br>Midin<br>Ostrich fern<br>Western swordfern| |
+|Pinales      |           |Pine nut|
 
 ## Seaweed
 
-| Order        | Stem/Leaf|
-|--------------|----------|
+| Order        | Stem/Leaf |
+|--------------|-----------|
 |Bangiales     |Nori<br>Laver<br>Zicai<br>Gim|
 |Bryopsidales  |Sea grapes|
 |Gracilariales |Ogonori (Agar)|
