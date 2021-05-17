@@ -86,7 +86,7 @@ A big question involving small children revolves around the daycare provider.
 
 Per my "rent everything" philosophy, I should find a daycare. The problem is that the daycares nearby might not be as high enough quality as you'd want. And nannies are very expensive. Partly because rent and transportation is expensive for them.
 
-Ah - but now that you own a house, if you have enough space, then you can have a nanny move in!
+Ah - but now that you own a house, if you have enough space, then you can have a nanny move in! You can get an au pair for very cheap.
 
 Per my "rent everything" philosophy, I should rent any activity for my children - gymnastics / soccer / swimming - whatever that's around, for monthly classes.
 
