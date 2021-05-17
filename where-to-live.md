@@ -82,7 +82,7 @@ Okay, what kind of house are you getting?
 
 ## Family house needs
 
-A big question revolving around small children revolves around the daycare provider.
+A big question involving small children revolves around the daycare provider.
 
 Per my "rent everything" philosophy, I should find a daycare. The problem is that the daycares nearby might not be as high enough quality as you'd want. And nannies are very expensive. Partly because rent and transportation is expensive for them.
 
